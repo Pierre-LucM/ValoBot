@@ -1,0 +1,92 @@
+{
+  "ranks": {
+    "iron1": {
+      "path":"src/imgRanks/iron1.png",
+      "filename": "iron1.png"
+    },
+    "iron2": {
+      "path": "src/imgRanks/iron2.png",
+      "filename": "iron2.png"
+    },
+    "iron3": {
+      "path": "src/imgRanks/iron3.png",
+      "filename": "iron2.png"
+    },
+    "bronze1": {
+      "path":"src/imgRanks/bronze1.png",
+      "filename": "bronze1.png"
+    },
+    "bronze2": {
+      "path": "src/imgRanks/bronze2.png",
+      "filename": "bronze2.png"
+    },
+    "bronze3": {
+      "path": "src/imgRanks/bronze3.png",
+      "filename": "bronze3.png"
+    },
+    "silver1": {
+      "path":"src/imgRanks/silver1.png",
+      "filename": "silver1.png"
+    },
+    "silver2": {
+      "path": "src/imgRanks/silver2.png",
+      "filename": "silver2.png"
+    },
+    "silver3": {
+      "path": "src/imgRanks/silver3.png",
+      "filename": "silver3.png"
+    },
+    "gold1": {
+      "path":"src/imgRanks/gold1.png",
+      "filename": "gold1.png"
+    },
+    "gold2": {
+      "path": "src/imgRanks/gold2.png",
+      "filename": "gold2.png"
+    },
+    "gold3": {
+      "path": "src/imgRanks/gold3.png",
+      "filename": "gold3.png"
+    },
+    "platinum1": {
+      "path":"src/imgRanks/plat1.png",
+      "filename": "plat1.png"
+    },
+    "platinum2": {
+      "path": "src/imgRanks/plat2.png",
+      "filename": "plat2.png"
+    },
+    "platinum3": {
+      "path": "src/imgRanks/plat3.png",
+      "filename": "plat3.png"
+    },
+    "diamond1": {
+      "path":"src/imgRanks/diam1.png",
+      "filename": "diam1.png"
+    },
+    "diamond2": {
+      "path": "src/imgRanks/diam2.png",
+      "filename": "diam2.png"
+    },
+    "diamond3": {
+      "path": "src/imgRanks/diam3.png",
+      "filename": "diam3.png"
+    },
+    "immortal1": {
+      "path":"src/imgRanks/immo1.png",
+      "filename": "immo1.png"
+    },
+    "immortal2": {
+      "path": "src/imgRanks/immo2.png",
+      "filename": "immo2.png"
+    },
+    "immortal3": {
+      "path": "src/imgRanks/immo3.png",
+      "filename": "immo3.png"
+    },
+    "radiant": {
+      "path": "src/imgRanks/radiant.png",
+      "filename": "radiant.png"
+    }
+  }
+}
